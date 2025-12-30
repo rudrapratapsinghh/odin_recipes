@@ -1,0 +1,7 @@
+h1 {
+    margin: 8px auto;
+    text-decoration: underline;
+    background-color: aquamarine;
+    max-width: 500px;
+    text-align: center;
+}
