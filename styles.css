@@ -20,4 +20,16 @@ img {
     width: auto;
     margin: 20px auto;
 }
+.about,h2,ol,ul{
+    text-align: center;
+}
+p,ol,ul {
+    font-size: 24px;
+}
+ol,ul{
+    margin:12px auto;
+    padding:0;
+    width: 90%;
+}
+
 
